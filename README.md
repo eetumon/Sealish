@@ -1,0 +1,2 @@
+# Sealish
+Encrypted language 
